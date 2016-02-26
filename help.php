@@ -1,0 +1,12 @@
+<?php
+   include("functions.php");
+   head("帮助说明");
+   title(TITLE);
+   nav(4);
+?>
+<?php 
+  help(); 
+?>
+<?php
+footer();
+?>

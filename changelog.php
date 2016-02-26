@@ -1,0 +1,12 @@
+<?php
+   include("functions.php");
+   head("CHANGELOG");
+   title(TITLE);
+   nav(6);
+?>
+<?php
+   changelog();
+?>
+<?php
+footer();
+?>

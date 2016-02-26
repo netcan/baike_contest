@@ -1,0 +1,9 @@
+<?php
+   include("functions.php");
+   head("后台");
+   title(TITLE);
+   nav(4);
+?>
+<?php
+footer();
+?>
